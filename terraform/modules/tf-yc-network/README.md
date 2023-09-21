@@ -20,7 +20,7 @@ attribute token must be set explicitly by variable for provider
 
 | Variable      | Description               | Default Value                                     |
 |---------------|---------------------------|---------------------------------------------------|
-| network_zones | Network availability zone | "ru-central1-a", "ru-central1-b", "ru-central1-c" |
+| network_zones | Network availability zone | "#", "#", "#" |
 
 ## Output:
 
