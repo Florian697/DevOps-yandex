@@ -1,9 +1,10 @@
 #Linux Bash Shell Cheat Sheet:
 
+<span style="color: green">System information
 
 | Command                       | Description                                     |     example                    |
 |-------------------------------|-------------------------------------------------|--------------------------------|
-|<span style="color: green">System information                                                                       |      
+|      
 |arch                           |display architecture                             |![img.png](img.png)    
 |uname -m                       |analogue (arch)                                  |![img.png](img.png)    
 |uname -r                       |display the kernel version used                  |![img_1.png](img_1.png) 
@@ -19,8 +20,13 @@
 |cat /proc/mounts               |display mounted file systems                     |![img_11.png](img_11.png)                   
 |lspci -tv                      |show as a tree of PCI devices                    |![img_12.png](img_12.png)               
 |lsusb -tv                      |show as a tree of USB devices                    |![img_13.png](img_13.png)               
-|date                           |display system date                              |![img_14.png](img_14.png)               
-|<span style="color: green">System shutdown                                                                            
+|date                           |display system date                              |![img_14.png](img_14.png)|
+
+
+<span style="color: green">System shutdown   
+
+| Command                       | Description                                     |     example                    |
+|-------------------------------|-------------------------------------------------|--------------------------------|                                                                         
 |shutdown -h now                |stop yhe system                                  |               
 |init 0                         |stop yhe system                                  |               
 |telinit 0                      |stop yhe system                                  |               
@@ -29,7 +35,12 @@
 |shutdown -r now                |                                                 |               
 |reboot                         |                                                 |     
 |logout                         |                                                 |               
-|<span style="color: green">Files and directories                                                                                  
+
+
+<span style="color: green">Files and directories   
+
+| Command                       | Description                                     |     example                    |
+|-------------------------------|-------------------------------------------------|--------------------------------|
 |                               |                                                 |               
 |                               |                                                 |               
 |                               |                                                 |               
