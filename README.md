@@ -46,6 +46,8 @@ I am a DevOps enginer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 •Testing operators in openshift and kubernetes.
 
+---
+
 <span style="color: green">Skills:
 
 ·Strong knowledge of monitoring and logging tools such as Elasticsearch, Prometheus, and Grafana.
